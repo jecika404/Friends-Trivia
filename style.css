@@ -1,0 +1,23 @@
+body {
+    color: #535c68;
+}
+.heading-quiz {
+    margin-top: 30px;
+    padding-top: 30px;
+}
+.result {
+    margin: 0 auto;
+    width: 700px;
+    padding: 40px 30px;
+    display: none;
+    
+}
+.btn-submit {
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+h4 > span {
+    font-size: 50px;
+}
